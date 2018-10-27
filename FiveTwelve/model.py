@@ -1,6 +1,6 @@
 """
     Game logic. Model Component. Produces event 
-    notifications to trgger view updates.
+    notifications to trigger view updates.
     Implemented by Kiana Hosaka.
 """
 
