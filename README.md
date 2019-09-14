@@ -1,4 +1,12 @@
-# fivetwelve
+# Five Twelve
 FiveTwelve game based on game 2048.
 
-Starter code provided by professor. Completion of project depended on understanding of starter code. Personally implemented code in model.py. 
+# Credits
+Starter code provided by professor Michal Young.
+Completion of project depended on understanding of starter code.
+Implementation of model.py by Kiana Hosaka.
+
+#
+```
+$ python3 game_manager.py
+```
